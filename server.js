@@ -1,4 +1,2 @@
 require('dotenv').config();
-const express = require('express');
-const cors = require
-undefined
+const express = require
